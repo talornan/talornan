@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Tal Ornan
 - 🌱 I’m currently learning Computer Science and Mathematics at Ariel University
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=talornan&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talornan&layout=compact&theme=radical" />
+</a>
 
-<!---
-talornan/talornan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-[![talornan GitHub stats](https://github-readme-stats.vercel.app/api?username=talornan)](https://github.com/anuraghazra/github-readme-stats)
-![talornan GitHub stats](https://github-readme-stats.vercel.app/api?username=talornan&count_private=true)
-![talornan GitHub stats](https://github-readme-stats.vercel.app/api?username=talornan&show_icons=true)
-![talornan GitHub stats](https://github-readme-stats.vercel.app/api?username=talornan&show_icons=true&theme=radical)
