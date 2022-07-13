@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tal Ornan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science in Ariel University
+- 🌱 I’m currently learning Computer Science and Mathematics at Ariel University
 
 
 <!---
